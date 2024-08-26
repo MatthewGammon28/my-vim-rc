@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Except .vimrc and .gitignore
+!.vimrc
+!.gitignore
