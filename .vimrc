@@ -11,9 +11,9 @@ set list
 set listchars=tab:⊳─,
 
 " Set display character for trailing spaces
-set listchars+=trail:‼,
+set listchars+=trail:‼
 "set listchars+=trail:␠,
 
 " Set display character for spaces
-set listchars+=space:·
+"set listchars+=space:·
 "set listchars+=space:␣
